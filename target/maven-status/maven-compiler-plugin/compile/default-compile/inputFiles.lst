@@ -1,0 +1,15 @@
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/domain/model/Price.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/application/dto/PriceDTO.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/mapper/PriceMapper.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/database/specification/PriceSpecification.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/database/port/PricePersistence.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/controller/PriceController.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/DemoApplication.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/application/Response/PriceResponse.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/application/usecases/GetSpecificPrice.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/config/H2DatabaseConfig.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/entity/PriceEntity.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/port/GetSpecificPriceUseCase.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/config/SpringFoxConfig.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/database/adapter/PriceAdapterH2.java
+/home/ezequiel/Documentos/pruebas_tecnicas/prueba_GFT/prueba_inditex/demo/src/main/java/com/inditex/demo/infrastructure/database/repository/PriceRepository.java
